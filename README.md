@@ -1,4 +1,6 @@
 # XON
-# The last browser you will need!
-Open Source, built in adblocker, Chromium based, light and fast!
-Download Here!
+#  The last browser you will need!
+#    Open Source
+#    Built in adblocker
+#    Midori Core based
+#    light and fast!
